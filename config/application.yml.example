@@ -1,0 +1,11 @@
+telegram:
+  tel: "+74955786565"
+  login: "client_user"
+  password: "client_password"
+
+db:
+  adapter: sqlite3
+  database: db/application.db
+  options:
+    charset: 'utf8'
+    collation: 'utf8_unicode_ci'
